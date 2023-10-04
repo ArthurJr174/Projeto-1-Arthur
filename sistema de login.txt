@@ -2,3 +2,5 @@ login
 digite seu email
 senha
 digite sua senha
+idade
+digite sua idade
